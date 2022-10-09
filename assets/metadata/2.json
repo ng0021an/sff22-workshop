@@ -1,0 +1,20 @@
+{
+    "name": "SFF 2022, CB Workshop",
+    "description": "How to unleash Web3 features on your web and mobile app.",
+    "image": "ipfs://bafkreibln5vsb7okplp246ldbbhxehxgl4suoodf4hzxhr4hog5k3csrbi",
+    "edition": 2,
+    "attributes": [
+        {
+            "trait_type": "Event", 
+            "value": "Singapore Fintech Festival"
+        },
+        {
+            "trait_type": "Year", 
+            "value": "2022"
+        },
+        {
+            "trait_type": "Type", 
+            "value": "Gold Badge"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.idea/*
+.env
+.envtestnet
+out/
+bin/
+.DS_Store
+
+node_modules/
+
+contract/abi
